@@ -27,4 +27,4 @@ Zach Krell 50
         ![image of my editor](Capture.PNG)
         
         
-         ![check this out](https://github.com)
+         check this [out](https://github.com)

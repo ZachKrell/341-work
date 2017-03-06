@@ -2,7 +2,7 @@
 
 ###Questionnaire
 
-I had a hard tie thinking of something to ask you all about. I eventually landed on sports. Now I'm not really a sports guy, I just thought I would be an easy questionnaire to write
+I had a hard time thinking of something to ask you all about. I eventually landed on sports. Now I'm not really a sports guy, I just thought I would be an easy questionnaire to write
   * everyone knows about sports, so even if you sdon't like them you know of them.
   * I kinda like hockey, I'm no sports guy, but you know.
   * maybe It was a weird choice...I needed something though.

@@ -10,6 +10,7 @@ I had a hard tie thinking of something to ask you all about. I eventually landed
 ---
 I had issues with the Images in the website because I was saving them as .jpg-s so It wasn't working.
 As soon as I changed them to .Png-s everything was good. I had a harder time with this assignment than I have with the last two, but I think I hve got it. We'll see, as alway I'll just wait until the instructor tells me I did something wrong...which I always very likely.
+For whatever reason, I still have yet to figure it out, You need to press the enter button twice befor it takes you to the website I want it to direct you to. I'll keep looking for the reason why this is happening. I would love to hear any ideas people have about this problem. I will also post this to the issues forum.
 
 ---
 

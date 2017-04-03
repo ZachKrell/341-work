@@ -12,8 +12,8 @@
  body {
     background-color: #228B22;
     background-image: url("forest.png");
-    min-height: 100px;
-    min-width: 400px;
+    min-height: 400px;
+    min-width: 100px;
     background-attachment: fixed;
     background-position: right top;
     background-repeat: no-repeat;

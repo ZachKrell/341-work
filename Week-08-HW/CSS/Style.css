@@ -11,14 +11,7 @@
 
  body {
     background-color: #228B22;
-    background-image: url("forest.png");
-    min-height: 400px;
-    min-width: 100px;
-    background-attachment: fixed;
-    background-position: right top;
-    background-repeat: no-repeat;
-    margin-bottom: 2em 
- }
+   }
 
  p {font-family: 'Arial', sans-serif;
     color: #ff0000

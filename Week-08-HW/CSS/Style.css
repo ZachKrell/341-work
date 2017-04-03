@@ -1,0 +1,28 @@
+ .heading {
+  color: #ffffff
+  text-align: center;
+  font-family: 'Times New Roman', serif;
+  margin: 35px opx 10px;
+ }
+
+ h1 {
+    font-size: 60pt;
+ }
+
+ body {
+    background-color: #228B22;
+    background-image: url("forest.png");
+    min-height: 100px;
+    min-width: 400px;
+    background-attachment: fixed;
+    background-position: left bottom
+    background-repeat: no-repeat;
+    margin-bottom:3em 
+ }
+
+ p {font-family: 'Times New Roman', sans-serif;
+    color: #ffffff
+    text-aline: justify;
+    margin: 30px 25% 0px;
+    text-indent: 2em;
+    }

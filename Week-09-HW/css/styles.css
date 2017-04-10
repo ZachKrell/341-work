@@ -1,16 +1,14 @@
+html {
+  background-color: #9fa4b3
+}
 header {
   background-color :#433e65;
   font-family: serif;
-  font-size: 20pt;
+  font-size: 30pt;
   text-transform: uppercase;
   margin: 10px;
   height: 2em;
 }
-
-img {
-  backgroung-attachment : scroll;
-}
-
 
 ul {
   list-style-type:none;
@@ -90,6 +88,3 @@ div.content {
   float: left;
 }
 
-.active {
-  background-color: #617695
-}

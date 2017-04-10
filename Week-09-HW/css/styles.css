@@ -21,7 +21,7 @@ header {
    padding-right: 3em;
    text-align: left;
    text-decoration: none;
-   color: #fff;
+   color: #000;
 }
  .baritem:hover, .menu:hover {
    color: #fff;

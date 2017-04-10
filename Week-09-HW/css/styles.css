@@ -10,7 +10,7 @@ header {
   height: 2em;
 }
 .bar {
-   display: inline-block;\
+   display: inline-block;
 }
   
 li{
@@ -48,7 +48,8 @@ li a:hover, .drop-menu:hover .dropbutton{
 .bar: hover .menu-content {
   display: block;
 }
-.dropped:hover {
+
+.:hover {
   color: #a3cad4;
   background-color: #433e65;
 }

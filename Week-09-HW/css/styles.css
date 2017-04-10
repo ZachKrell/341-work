@@ -10,61 +10,60 @@ header {
   height: 2em;
 }
 .bar {
+   background-color: #5cdfce;
+   margin: 0;
+   padding: 0;
+}
+ .baritem {
    display: inline-block;
+   padding: 1em 1em;
+   padding-right: 3em;
+   text-align: left;
+   text-decoration: none;
+   color: #5cdfce;
 }
-  
-li{
-  float: left;
-}
-
-li a, .menu {
-  display: block;
-  color: #e5e5e5;
-  text-decoration: underline;
-  margin: 10px 40px 10px;
+ .baritem:hover, .menu:hover {
+   color: #fff;
+   background-color: #5cdfce;
 }
 
-li a:hover, .menu-content:hover .menu{
-  background-color: #5cdfce;
-  color: #e5e5e5;
+.menu{
+  display: inline-block;
+  width: 20%;
+  min-width:100px;
 }
 
 .menu-content {
   display: none;
   position: absolute;
-  border: 2px solid;
+  border: 2px solid #000;
   margin: 0;
-  background-color: #a3cad4;
+  color: #000;
+  background-color: #5cdfce;
+  z-index:1;
 }
+
 
 .menu-content a {
-  color: white;
-  padding: 10px 13px;
+  color: #000;
   text-decoration: underline;
-  display: block;
-  text-align: left;
 }
 
-.bar: hover .menu-content {
+.menu:hover .menu-content {
   display: block;
 }
 
-.:hover {
-  color: #a3cad4;
-  background-color: #433e65;
-}
-
-.dropped:hover a {
-  color: #a3cad4;
-  background-color: #433e65;
-}
-
-.dropped {
+.menu-item {
   display: block;
   text-align: left;
   margin: 0;
-  padding: 2em;
+  padding: 1em;
   min-width: 10em;
+}
+
+.menu-item:hover, .menu-item:hover a {
+  color: #fff;
+  background-color: #5cdfce;
 }
 
 p.body {
@@ -77,12 +76,3 @@ div.filler {
   padding: 5px;
   float: left;
 }
-
-ul {
-  list-style-type: disk;
-  margin: 10px 20px;
-  min-width: 300px;
-  background-color: #5cdfce;
-  padding: 2em;
-}
-

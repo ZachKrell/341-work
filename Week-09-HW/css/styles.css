@@ -25,14 +25,14 @@ li{
 
 li a, .dropbutton {
   display: block;
-  color: ffffff;
+  color: e5e5e5;
   text-decoration: underline;
   margin: 10px 40px 10px;
 }
 
 li a:hover, .drop-menu:hover .dropbutton{
   background-color: #a3cad4;
-  color: #ffffff;
+  color: #e5e5e5;
 }
 
 li.drop-menu{

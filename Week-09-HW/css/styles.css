@@ -24,8 +24,8 @@ li a, .menu {
   margin: 10px 40px 10px;
 }
 
-li a:hover, .drop-menu:hover .dropbutton{
-  background-color: #a3cad4;
+li a:hover, .drop-menu:hover .menu{
+  background-color: #5cdfce;
   color: #e5e5e5;
 }
 

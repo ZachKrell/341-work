@@ -9,21 +9,15 @@ header {
   margin: 10px;
   height: 2em;
 }
-
-ul {
-  list-style-type:none;
-  margin: 0 30px;
-  min-width: 150px;
-  overflow: hidden;
-  background-color: #1a1649;
-  padding: 2em 0;
+.bar {
+   display: inline-block;\
 }
-
+  
 li{
   float: left;
 }
 
-li a, .dropbutton {
+li a, .menu {
   display: block;
   color: e5e5e5;
   text-decoration: underline;
@@ -35,11 +29,7 @@ li a:hover, .drop-menu:hover .dropbutton{
   color: #e5e5e5;
 }
 
-li.drop-menu{
-  display: inline-block;
-}
-
-.drop-content {
+.menu-content {
   display: none;
   position: absolute;
   border: 2px solid;
@@ -47,7 +37,7 @@ li.drop-menu{
   background-color: #a3cad4;
 }
 
-.drop-content a {
+.menu-content a {
   color: white;
   padding: 10px 13px;
   text-decoration: underline;
@@ -55,26 +45,8 @@ li.drop-menu{
   text-align: left;
 }
 
-.drop-menu: hover .drop-content {
+.bar: hover .menu-content {
   display: block;
-}
-
-.dropped:hover {
-  color: #a3cad4;
-  background-color: #433e65;
-}
-
-.dropped:hover a {
-  color: #a3cad4;
-  background-color: #433e65;
-}
-
-.dropped {
-  display: block;
-  text-align: left;
-  margin: 0;
-  padding: 2em;
-  min-width: 10em;
 }
 
 p.body {

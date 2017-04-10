@@ -8,10 +8,9 @@ header {
 }
 
 img {
-  position: top-left;
-  z-index: 2;
-  margin: 10px 0 30px;
+  backgroung-attachment : scroll;
 }
+
 
 ul {
   list-style-type:disk;
@@ -48,4 +47,49 @@ li.drop-menu{
   border: 2px solid;
   margin: 0;
   background-color: #a3cad4;
+}
+
+.drop-content a {
+  color: white;
+  padding: 10px 13px;
+  text-decoration: underline;
+  display: block;
+  text-align: left;
+}
+
+.drop-menu: hover .drop-content {
+  display: block;
+}
+
+.dropped:hover {
+  color: #a3cad4;
+  background-color: #433e65;
+}
+
+.dropped:hover a {
+  color: #a3cad4;
+  background-color: #433e65;
+}
+
+.dropped {
+  display: block;
+  text-align: left;
+  margin: 0;
+  padding: 2em;
+  min-width: 10em;
+}
+
+p.body {
+font-family: sans-serif;
+font-size: 20pt;
+}
+
+div.content {
+  margin: auto;
+  padding: 5px;
+  float: left;
+}
+
+.active {
+  background-color: #617695
 }

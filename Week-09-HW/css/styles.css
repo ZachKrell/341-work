@@ -2,7 +2,7 @@ html {
   background-color: #9fa4b3;
 }
 header {
-  background-color :#433e65;
+  background-color :#5cdfce;
   font-family: serif;
   font-size: 30pt;
   text-transform: uppercase;
@@ -24,7 +24,7 @@ li a, .menu {
   margin: 10px 40px 10px;
 }
 
-li a:hover, .drop-menu:hover .menu{
+li a:hover, .menu-content:hover .menu{
   background-color: #5cdfce;
   color: #e5e5e5;
 }

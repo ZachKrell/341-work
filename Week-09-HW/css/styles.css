@@ -48,6 +48,23 @@ li a:hover, .drop-menu:hover .dropbutton{
 .bar: hover .menu-content {
   display: block;
 }
+.dropped:hover {
+  color: #a3cad4;
+  background-color: #433e65;
+}
+
+.dropped:hover a {
+  color: #a3cad4;
+  background-color: #433e65;
+}
+
+.dropped {
+  display: block;
+  text-align: left;
+  margin: 0;
+  padding: 2em;
+  min-width: 10em;
+}
 
 p.body {
 font-family: sans-serif;

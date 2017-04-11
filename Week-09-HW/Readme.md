@@ -8,6 +8,6 @@
 ---
 ### What I Learned
 ---
-I learned that I need to pay attention to where I am nesting things, and make sure that I'm not going to overboard and making it to hard for myself. The colors worked better for me this time, and I didn't forget to do semi-colons. I still feel like my computer doesn't push my changes properly. Like, I commit my changes and the site doesn't change for a few pushes still.
+I learned that I need to pay attention to where I am nesting things, and make sure that I'm not going to overboard and making it to hard for myself. The colors worked better for me this time I decided to go with easier colors that work a little better togethr than last time, and I didn't forget to do semi-colons. I still feel like my computer doesn't push my changes properly. Like, I commit my changes and the site doesn't change for a few pushes still.
 
 I just need to focus and start working on the projects earlier in the week.

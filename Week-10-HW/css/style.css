@@ -1,0 +1,149 @@
+header {
+  background-color :#433e65;
+  font-family: serif;
+  font-size: 20pt;
+  text-transform: uppercase;
+  margin: 10px;
+  height: 2em;
+}
+
+img {
+  backgroung-attachment : scroll;
+}
+
+
+ul {
+  list-style-type:disk;
+  margin: 0 30px;
+  min-width: 150px;
+  overflow: hidden;
+  background-color: #1a1649;
+  padding: 2em 0;
+}
+
+li{
+  float: right;
+}
+
+li a, .dropbutton {
+  display: block;
+  color: #4c7a87;
+  text-decoration: underline;
+  margin: 10px 40px 10px;
+}
+
+li a:hover, .drop-menu:hover .dropbutton{
+  background-color: #a3cad4;
+  color: black;
+}
+
+li.drop-menu{
+  display: inline-block;
+}
+
+.drop-content {
+  display: none;
+  position: absolute;
+  border: 2px solid;
+  margin: 0;
+  background-color: #a3cad4;
+}
+
+.drop-content a {
+  color: white;
+  padding: 10px 13px;
+  text-decoration: underline;
+  display: block;
+  text-align: left;
+}
+
+.drop-menu: hover .drop-content {
+  display: block;
+}
+
+.dropped:hover {
+  color: #a3cad4;
+  background-color: #433e65;
+}
+
+.dropped:hover a {
+  color: #a3cad4;
+  background-color: #433e65;
+}
+
+.dropped {
+  display: block;
+  text-align: left;
+  margin: 0;
+  padding: 2em;
+  min-width: 10em;
+}
+
+.container {
+  padding: 4px 15px;
+  display: flex;
+  flex: auto;
+  flex-direction: row;
+  font-family: sans-serif;
+  font-size: 16pt;
+}
+
+.Top-box {
+  background-color: #1b2783;
+  width: 60%;
+  text-align: center;
+}
+
+.side-box {
+  background-color: #7bdaff;
+  width: 35%;
+}
+
+.Mid-Box {
+  background-color: #4365c1;
+  width: 60%;
+  text-align: center;
+}
+
+.End-Box {
+  background-color: #50a8c9;
+  width: 60%;
+  text-align: center;
+}
+
+@media screen and (min-width: 1000px) {
+                                        .Top-box {
+                                                  width: 59.50%;
+                                        }
+
+                                        .side-box {
+                                                  width: 30%;
+                                        }
+
+                                        .Mid-Box {
+                                                  width: 59.50%;
+                                        }
+
+                                        .End-Box {
+                                                  width: 59.50%;
+                                        }
+                
+}
+
+@media screen and (min-width: 500px) {
+                                        .Top-box {
+                                                  width: 59.50%;
+                                        }
+
+                                        .side-box {
+                                                  width: 30%;
+                                        }
+
+                                        .Mid-Box {
+                                                  width: 59.50%;
+                                        }
+
+                                        .End-Box {
+                                                  width: 59.50%;
+                                        }
+}

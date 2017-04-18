@@ -102,7 +102,8 @@ div.content {
  float: center;
  display: flex;
  flex-wrap: wrap;
- font-family: sans-serif; 
+ font-family: sans-serif;
+ color: white;
 }
 
 .Top-box {
@@ -111,7 +112,6 @@ div.content {
   width: 90%;
   text-align: center;
   padding: 10px;
-  color: white;
 }
 
 .Mid-Box {
@@ -120,7 +120,6 @@ div.content {
   width: 50%;
   text-align: center;
   padding: 10px;
-  color: white;
 }
 
 .End-Box {
@@ -129,7 +128,6 @@ div.content {
   width: 90%;
   text-align: center;
   padding: 10px;
-  color: white;
 }
 
 @media screen and (min-width: 1000px) {

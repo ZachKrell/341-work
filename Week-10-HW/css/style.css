@@ -99,6 +99,7 @@ div.content {
 
 
 .container {
+ float: center;
  display: flex;
  flex-wrap: wrap;
  font-family: sans-serif; 

@@ -99,34 +99,28 @@ div.content {
 
 
 .container {
-  padding: 4px 15px;
+  width: 100%;
   display: flex;
-  flex: auto;
-  flex-direction: row;
+  flex-wrap:wrap;
   font-family: sans-serif;
   font-size: 16pt;
 }
 
 .Top-box {
   background-color: #1b2783;
-  width: 60%;
+  width: 59.50%;
   text-align: center;
-}
-
-.side-box {
-  background-color: #7bdaff;
-  width: 35%;
 }
 
 .Mid-Box {
   background-color: #4365c1;
-  width: 60%;
+  width: 59.50%;
   text-align: center;
 }
 
 .End-Box {
   background-color: #50a8c9;
-  width: 60%;
+  width: 59.50%;
   text-align: center;
 }
 
@@ -136,7 +130,7 @@ div.content {
                                         }
 
                                         .side-box {
-                                                  width: 30%;
+                                                  width: 40%;
                                         }
 
                                         .Mid-Box {
@@ -155,7 +149,7 @@ div.content {
                                         }
 
                                         .side-box {
-                                                  width: 30%;
+                                                  width: 40%;
                                         }
 
                                         .Mid-Box {

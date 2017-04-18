@@ -104,6 +104,7 @@ div.content {
  flex-wrap: wrap;
  font-family: sans-serif;
  color: white;
+ margin: 0 auto;
 }
 
 .Top-box {

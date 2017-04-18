@@ -19,7 +19,7 @@ ul {
   margin: 0 40px;
   min-width: 200px;
   overflow: hidden;
-  background-color: rgb(0, 0, 255);
+  background-color: #7bdae7;
   padding: 0.5em 0;
 }
 
@@ -29,7 +29,7 @@ li {
 
 li a, .menu-button {
   display: block;
-  color: rgb(255, 255, 255);
+  color: #ef5c2a;
   text-decoration: none;
   margin: 0 40px 0;
 }
@@ -108,19 +108,19 @@ div.content {
 
 .Top-box {
   background-color: #1b2783;
-  width: 59.50%;
+  width: 90%;
   text-align: center;
 }
 
 .Mid-Box {
   background-color: #4365c1;
-  width: 59.50%;
+  width: 90%;
   text-align: center;
 }
 
 .End-Box {
   background-color: #50a8c9;
-  width: 59.50%;
+  width: 90%;
   text-align: center;
 }
 

@@ -7,7 +7,7 @@
    
 ---
 
-# My Mobile tyle
+# My Mobile style
 
   I wanted it to be simple and easy, so my plan was to just have the site function the same way on other devices.   Like So: 
   

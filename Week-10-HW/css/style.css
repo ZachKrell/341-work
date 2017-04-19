@@ -10,14 +10,14 @@ p {
 }
 
 header {
-margin:0 auto;
+margin: 0 auto;
 padding:0;
 }
 
 ul {
   list-style-type: none;
   min-width: 90%;
-  margin: 0px;
+  margin: 0 auto;
   overflow: hidden;
   background-color: #7bdae7;
   padding: 0.5em 0;

@@ -113,6 +113,7 @@ div.content {
   width: 90%;
   text-align: center;
   padding: 10px;
+  margin: 0 auto;
 }
 
 .Mid-Box {
@@ -121,6 +122,7 @@ div.content {
   width: 50%;
   text-align: center;
   padding: 10px;
+  margin: 0 auto;
 }
 
 .End-Box {
@@ -129,6 +131,7 @@ div.content {
   width: 90%;
   text-align: center;
   padding: 10px;
+  margin: 0 auto;
 }
 
 @media screen and (min-width: 1000px) {

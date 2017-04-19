@@ -133,29 +133,29 @@ div.content {
 
 @media screen and (min-width: 1000px) {
                                         .Top-box {
-                                                  width: 59.50%;
+                                                  width: 100%;
                                         }
 
                                       .Mid-Box {
-                                                  width: 59.50%;
+                                                  width: 100%;
                                         }
 
                                         .End-Box {
-                                                  width: 59.50%;
+                                                  width: 100%;
                                         }
                 
 }
 
 @media screen and (min-width: 500px) {
                                         .Top-box {
-                                                  width: 59.50%;
+                                                  width: 100%;
                                         }
 
                                        .Mid-Box {
-                                                  width: 59.50%;
+                                                  width: 100%;
                                         }
 
                                         .End-Box {
-                                                  width: 59.50%;
+                                                  width: 100%;
                                         }
 }

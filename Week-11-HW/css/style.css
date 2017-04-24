@@ -6,7 +6,7 @@
     .hero-img, .Asiago-pic, .sandwich {
   position: relative;
   opacity : 0.75;
-  backround-repeat: no-repeat;
+  background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -14,17 +14,17 @@
 
     .hero-img {
   min-height: 800px;
-  background-image: url("imgs/BagelBackground.png")
+  background-image: url("imgs/BagelBackground.png");
 }
 
     .Asiago-pic {
   min-height: 800;
-  background-image: url("imgs/Asiago.png")
+  background-image: url("imgs/Asiago.png");
     }
 
     .sandwich {
   min-height: 800;
-  background-image: url("imgs/BagelSandwich.png")
+  background-image: url("imgs/BagelSandwich.png");
     }
 
     .bagel {
@@ -86,7 +86,7 @@
     }
 
     @media only screen and (max-device-width: 1024px) {
-  .hero-img, .Asiago-pic, .sandwich {
-  background-attachment: scroll;
+                                                        .hero-img, .Asiago-pic, .sandwich {
+                                                                                            background-attachment: scroll;
   }
-    }
+}
